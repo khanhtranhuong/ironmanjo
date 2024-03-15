@@ -1,0 +1,28 @@
+{
+  "name": "ironmanjo",
+  "version": "1.0.3",
+  "description": "SUPER IRONMAN CALCULATOR",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "sign-alex": "^1.0.0",
+    "are-arrays": "^1.0.0",
+    "are-objects": "^1.0.0",
+    "ghost": "^1.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/khanhtranhuong/ironmanjo"
+  },
+  "homepage": "https://github.com/khanhtranhuong",
+  "keywords": [
+    "sign",
+    "add",
+    "sign",
+    "apart"
+  ],
+  "author": "IRONMAN",
+  "license": "IRO"
+}
